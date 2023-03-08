@@ -1,0 +1,6 @@
+`modprobe`: makes the chain module loading
+`insmod`: load only the specified module
+
+`/etc/modprobe.d/<module-name>.conf`: define params to the module
+
+curr: chapter 3
